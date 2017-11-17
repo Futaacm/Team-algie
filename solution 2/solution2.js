@@ -5,9 +5,9 @@ for(i = 0; i<10; i++){
     newarr = arr[i].toString().split('');
     nxtarr = newarr[i+1];
     for(j = 0; j<newarr.length; i++){
-        for (k = 0; k<nxtarr.length; k++){
-            if(newarr[j]!=)
-        }
+        nxtarr.forEach(function(element) {
+            
+        };
     }
 
 }
